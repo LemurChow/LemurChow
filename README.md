@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 new text
+more new text
 
 <!---
 LemurChow/LemurChow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
